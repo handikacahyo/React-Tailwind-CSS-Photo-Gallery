@@ -23,6 +23,6 @@ to start from scratch:
    <br/> "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
 
 7. Finally, start program & make some web :
-   <br/> 7.1. npm start
+   <br/> npm start
 
 Source: https://www.youtube.com/watch?v=FiGmAI5e91M
